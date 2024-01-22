@@ -5,14 +5,14 @@ Simulator.
 
 <h1> **LAMMPS ** </h1>
 
-全称Large-scale Atomic/Molecular Massively Parallel Simulator， ** 
-即大规模原子分子并行模拟器，主要用于分子动力学相关的一些计算和模拟工作。以下是LAMMPS的一些主要应用和功能：
+LAMMPS，全称Large-scale Atomic/Molecular Massively Parallel Simulator，即大规模原子分子并行模拟器，主要用于分子动力学相关的一些计算和模拟工作。以下是LAMMPS的一些主要应用和功能：
 
 分子动力学模拟：LAMMPS是一个用于模拟分子动力学的开源程序包，可以模拟气态、液态或固态相形态下、各种系综下、百万级的原子分子体系，广泛应用于材料科学、生物物理学、化学等领域的研究。
 支持多种力场和势函数：LAMMPS可以支持多种力场和势函数，包括多种多体势函数，这使得它可以模拟多种不同类型的原子和分子间相互作用。
 并行计算能力：LAMMPS具有良好的并行扩展性，可以在高性能计算机上实现大规模的并行计算，提高模拟的效率和精度。
 开放性：LAMMPS是一个开源程序包，用户可以免费获取源代码并根据自己的需要进行修改和扩展。此外，LAMMPS还提供了丰富的文档和社区支持，使得用户可以更容易地学习和使用它。
 总的来说，LAMMPS是一个功能强大的分子动力学模拟工具，可以帮助研究人员深入理解原子和分子的运动规律以及它们之间的相互作用，为材料设计、药物研发等领域提供重要的理论支持。
+ 
 
 
 Copyright (2003) Sandia Corporation.  Under the terms of Contract
