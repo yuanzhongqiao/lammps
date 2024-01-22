@@ -3,7 +3,9 @@ This is the LAMMPS software package.
 LAMMPS stands for Large-scale Atomic/Molecular Massively Parallel
 Simulator.
 
-<h1> **LAMMPS，全称Large-scale Atomic/Molecular Massively Parallel Simulator， **</h1>
+<h1> **LAMMPS ** </h1>
+
+全称Large-scale Atomic/Molecular Massively Parallel Simulator， ** 
 即大规模原子分子并行模拟器，主要用于分子动力学相关的一些计算和模拟工作。以下是LAMMPS的一些主要应用和功能：
 
 分子动力学模拟：LAMMPS是一个用于模拟分子动力学的开源程序包，可以模拟气态、液态或固态相形态下、各种系综下、百万级的原子分子体系，广泛应用于材料科学、生物物理学、化学等领域的研究。
